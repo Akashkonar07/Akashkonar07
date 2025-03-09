@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hey, I'm Akash!
+💻 Developer | 🎨 Designer
 
-<!--
-**Akashkonar07/Akashkonar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer and UI/UX enthusiast who loves creating seamless, user-friendly, and visually appealing digital experiences. With a strong foundation in frontend and backend technologies, I build functional and aesthetic solutions.
 
-Here are some ideas to get you started:
+🚀 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Web Development – Crafting responsive and dynamic applications
+🎨 UI/UX Design – Enhancing user experiences with intuitive interfaces
+💡 Problem-Solving – Developing efficient and scalable solutions
+📌 Current Project: Student Complaint Management System (Java Swing & PostgreSQL)
+
+🛠 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, React, Tailwind
+Backend: Java, PostgreSQL
+Design: Figma, UI/UX Principles
+📫 Let's Connect:
+
+LinkedIn: [Your LinkedIn Profile]
+Portfolio: [Your Portfolio Link]
+Always open to learning, collaborating, and creating something amazing! 🚀
